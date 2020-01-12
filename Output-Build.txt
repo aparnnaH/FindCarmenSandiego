@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: MaxwellAparnnaVaish_FinalProject, Configuration: Debug Any CPU ------
+1>H:\Visual Studio 2015\Projects\MaxwellAparnnaVaish_FinalProject\MaxwellAparnnaVaish_FinalProject\CoffeeShopScene.cs(15,15,15,19): error CS0017: Program has more than one entry point defined. Compile with /main to specify the type that contains the entry point.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
