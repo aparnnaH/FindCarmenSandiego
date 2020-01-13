@@ -3,9 +3,13 @@ A windows game where the players needs to solve a series of puzzles in order to 
 
 
 ![Loading Screen](https://github.com/aparnnaH/FindCarmenSandiego/blob/master/carmen1.png)
+Loading Screen
 
 ![Sliding Picture Puzzle](https://github.com/aparnnaH/FindCarmenSandiego/blob/master/carmen2.png)
+Sliding picture puzzle
 
-![Matching game Puzzle](https://github.com/aparnnaH/FindCarmenSandiego/blob/master/carmen3.png)
+![Matching game](https://github.com/aparnnaH/FindCarmenSandiego/blob/master/carmen3.png)
+Matching game
 
-![Matching game Puzzle](https://github.com/aparnnaH/FindCarmenSandiego/blob/master/minesweeper.png)
+![Minesweeper](https://github.com/aparnnaH/FindCarmenSandiego/blob/master/minesweeper.png)
+Minesweeper
