@@ -10,6 +10,5 @@ A windows game where the players needs to solve a series of puzzles in order to 
 ### Matching game
 ![Matching game](https://github.com/aparnnaH/FindCarmenSandiego/blob/master/carmen3.png)
 
-###Minesweeper
-![Finished game view](https://github.com/aparnnaH/minesweeper/blob/master/img/endGame.png)
+
 
